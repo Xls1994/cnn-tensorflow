@@ -5,6 +5,10 @@ Dependencies: Python 2.7, Tensorflow, Numpy, nltk, sklearn
 ```bash
 python demo.py
 ```
+## train word embeddings  
+```bash
+python word2vec_helpers.py input_file output_model_file output_vector_file  
+```
 ## data demo
 record-65._12  
 Codeine / Iodine  
